@@ -1,0 +1,9 @@
+C:\Users\Corys90\Desktop\pruebas\aplicaciones\SopaDeLetras\bin\Debug\SopaDeLetras.exe
+C:\Users\Corys90\Desktop\pruebas\aplicaciones\SopaDeLetras\bin\Debug\SopaDeLetras.pdb
+C:\Users\Corys90\Desktop\pruebas\aplicaciones\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.AssemblyReference.cache
+C:\Users\Corys90\Desktop\pruebas\aplicaciones\SopaDeLetras\obj\Debug\SopaDeLetras.Form1.resources
+C:\Users\Corys90\Desktop\pruebas\aplicaciones\SopaDeLetras\obj\Debug\SopaDeLetras.Properties.Resources.resources
+C:\Users\Corys90\Desktop\pruebas\aplicaciones\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.GenerateResource.cache
+C:\Users\Corys90\Desktop\pruebas\aplicaciones\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.CoreCompileInputs.cache
+C:\Users\Corys90\Desktop\pruebas\aplicaciones\SopaDeLetras\obj\Debug\SopaDeLetras.exe
+C:\Users\Corys90\Desktop\pruebas\aplicaciones\SopaDeLetras\obj\Debug\SopaDeLetras.pdb
